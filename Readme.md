@@ -1,4 +1,4 @@
-![K8s](https://user-images.githubusercontent.com/32914889/152344175-e068c21b-d9b3-4fd5-b0f9-4ae618f7091b.png)
+![1638794236174](https://user-images.githubusercontent.com/32914889/152353175-946bd912-43d0-4e7e-b6c9-4cc20432509c.jpg)
 
 [![GitHub followers](https://img.shields.io/github/followers/procheeseburger?logo=GitHub&style=for-the-badge)](https://github.com/procheeseburger)
 [![GitHub Stars](https://img.shields.io/github/stars/procheeseburger?logo=github&style=for-the-badge)](https://github.com/procheeseburger)
