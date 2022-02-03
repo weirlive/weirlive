@@ -2,4 +2,4 @@
 
 Husband, American, US Army Vet, Tesla Enthusiasts, #Paloaltonetworks #Helm #Kubernetes #K8s #K3s #Docker Spouting whale #Ansible #LXD #LXC #Cardano http://weir.live
 
-https://img.shields.io/badge/left-right-f39f37
+(Quick example: https://img.shields.io/badge/left-right-f39f37)
