@@ -7,7 +7,7 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/procheeseburger?color=BF4B8A&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/procheeseburger)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/procheeseburger?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/procheeseburger)
 
-Husband, American, US Army Vet, Tesla Enthusiasts, #Paloaltonetworks #Helm #Kubernetes ☸ #K8s #K3s #Docker 🐳 #Ansible https://docs.procheeseburger.com
+American, US Army Vet, Tesla Enthusiasts, #Paloaltonetworks #Helm #Kubernetes ☸ #K8s #K3s #Docker 🐳 #Ansible https://docs.procheeseburger.com
 
 [![Procheeseburger github stats](https://github-readme-stats.vercel.app/api?username=procheeseburger&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/procheeseburger)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=procheeseburger&theme=dark&count_private=true&theme=radical)](https://github.com/procheeseburger)
